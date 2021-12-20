@@ -1,0 +1,189 @@
+m255
+K4
+z2
+!s11f vlog 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Apps-SU/modelsim_dlx64_2021.3/examples
+vaccmulator
+Z0 !s110 1639903299
+!i10b 1
+!s100 7Fi?]JeQCmQYkNU^a=9KL1
+IfiPAIoQGmmmfo5EBGkbCB1
+Z1 dC:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode
+w1639903215
+8C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/acc.v
+FC:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/acc.v
+!i122 32
+Z2 L0 2 31
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OP;L;2021.3;73
+r1
+!s85 0
+31
+Z5 !s108 1639903299.000000
+!s107 C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/acc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/acc.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vALU
+R0
+!i10b 1
+!s100 2H_f:zTigdf?e[NZ7zo`[1
+IIaU[F?okJEe>9mmkj8QR;3
+R1
+w1639903221
+8C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/alu.v
+FC:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/alu.v
+!i122 33
+L0 1 107
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/alu.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vcontroller
+R0
+!i10b 1
+!s100 LORA1e5<heg]kaGBM<KKR2
+I`WFTn`13E[gSnD:TZN3UF0
+R1
+w1639903230
+8C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/control.v
+FC:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/control.v
+!i122 34
+L0 1 416
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/control.v|
+!i113 1
+R6
+R7
+vIR
+Z8 !s110 1639903300
+!i10b 1
+!s100 cPILL=h>Ni`02XJSaCmgJ0
+IThm7X?LUfQ[V@Cf5bFh:b3
+R1
+w1639691110
+8C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/IR.v
+FC:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/IR.v
+!i122 35
+L0 2 25
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/IR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/IR.v|
+!i113 1
+R6
+R7
+n@i@r
+vprocessor
+R8
+!i10b 1
+!s100 6^R@`6KC8jj=:@EP2_DBN0
+IWZNON9YAZnP@LZ;G2;MIE2
+R1
+w1639902647
+8C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/processor.v
+FC:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/processor.v
+!i122 36
+L0 1 111
+R3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1639903300.000000
+!s107 C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/processor.v|
+!i113 1
+R6
+R7
+vprogram_counter
+R8
+!i10b 1
+!s100 Fa74L@c1hIj]A?[D7?@Ti3
+IbJ1_Afa?R]NM6RW[XdQU`1
+R1
+w1639695392
+8C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/program_counter.v
+FC:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/program_counter.v
+!i122 37
+R2
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/program_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/program_counter.v|
+!i113 1
+R6
+R7
+vreg_file
+R8
+!i10b 1
+!s100 AkoKZ:gaBkoKPW9G5VRoN3
+I:dVUTIglI_3FGDkW[T[2O2
+R1
+w1639707647
+8C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/register_file.v
+FC:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/register_file.v
+!i122 38
+L0 2 27
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/register_file.v|
+!i113 1
+R6
+R7
+vtest_module
+!s110 1639903301
+!i10b 1
+!s100 Qiln>UMkzWMT@E=b]4V7L0
+I69O[<HQ[SGmokmYL@C[DH0
+R1
+w1639903190
+8C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/test_processor.v
+FC:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/test_processor.v
+!i122 39
+L0 1 60
+R3
+R4
+r1
+!s85 0
+31
+!s108 1639903301.000000
+!s107 C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/test_processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xkzmx/Documents/Graduate/CSE664/Project/Part2/ShareCode/test_processor.v|
+!i113 1
+R6
+R7
